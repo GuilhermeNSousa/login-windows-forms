@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\C#\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe.config
+C:\Users\Usuario\Desktop\C#\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe
+C:\Users\Usuario\Desktop\C#\TelaLogin\TelaLogin\bin\Debug\TelaLogin.pdb
+C:\Users\Usuario\Desktop\C#\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\C#\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\C#\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Login.resources
+C:\Users\Usuario\Desktop\C#\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Properties.Resources.resources
+C:\Users\Usuario\Desktop\C#\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\C#\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\TelaLogin\TelaLogin\obj\Debug\TelaLogin.exe
+C:\Users\Usuario\Desktop\C#\TelaLogin\TelaLogin\obj\Debug\TelaLogin.pdb
+C:\Users\Usuario\Desktop\C#\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Cadastro.resources
+C:\Users\Usuario\Desktop\C#\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Painel.resources
